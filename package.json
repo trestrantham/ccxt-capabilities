@@ -1,0 +1,17 @@
+{
+  "name": "ccxt-capabilities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bignumber.js": "^8.0.1",
+    "ccxt": "^1.17.583",
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-util": "^6.0.0",
+    "web3": "^1.0.0-beta.36"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
